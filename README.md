@@ -4,13 +4,12 @@ your finance manager
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-13-27-16.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-13-14-91.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-13-23-43.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-12-06-99.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-11-51-72.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-11-51-72.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-13-14-91.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-13-23-43.jpg)
+![](C:/Users/Hpp/Desktop/Screenshot_2022-07-22-19-12-06-99.jpg)
